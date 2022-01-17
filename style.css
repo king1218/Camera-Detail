@@ -24,6 +24,7 @@ body{
     margin-top: 87px;
     padding-left: 120px;
     padding-right: 200px;
+    position: sticky;
    
     
 }
